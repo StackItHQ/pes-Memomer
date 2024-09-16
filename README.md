@@ -38,6 +38,7 @@ This project provides a real-time data synchronization solution between Google S
    
 ## Video File link
 https://github.com/StackItHQ/pes-Memomer/tree/mayank/video_recording
+https://drive.google.com/file/d/1FN8Da-DctZ8_PjRxjlejWGU6mEouBBLx/view?usp=sharing
 
 ## Planned Approach
 
